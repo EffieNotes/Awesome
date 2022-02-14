@@ -170,6 +170,7 @@
 - [Bookviser](http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f)-Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/)-用于电子书管理和转换的强大软件。 [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved)![Freeware][Freeware Icon]
 - [kobo](https://www.kobo.com/desktop)-用于电子书管理和转换的极其丑陋但功能强大的软件。 ![Freeware][Freeware Icon]
+- [Effie](https://www.effie.co/)- 严肃写作 & 随手记录 & 思维导图。 ![Freeware][Freeware Icon]
 
 ### 电子邮件
 
